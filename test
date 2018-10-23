@@ -1,2 +1,4 @@
 this is a test text!test whether content of this branch will synchronize with the one of master branch.
 studyGit
+git add -p
+really
